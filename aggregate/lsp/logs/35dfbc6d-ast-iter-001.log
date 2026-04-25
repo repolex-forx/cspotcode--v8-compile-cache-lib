@@ -1,0 +1,7 @@
+[2026-04-25T06:32:58Z] === AST ITERATION 1 START | repo=cspotcode/v8-compile-cache-lib sha=35dfbc6d ===
+[2026-04-25T06:32:58Z] [iter=1] PHASE START: ast repo=cspotcode/v8-compile-cache-lib sha=35dfbc6d
+[2026-04-25T06:32:58Z] [iter=1] Building AST aggregate chunks
+[2026-04-25T06:33:02Z] [iter=1] AST chunks built count=1 triples=46786
+[2026-04-25T06:33:02Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/35dfbc6db9fb006f8a39dd16430d11f254cc2b1d/.complete
+[2026-04-25T06:33:02Z] [iter=1] PHASE END: ast elapsed_s=4 elapsed_min=0.1
+[2026-04-25T06:33:03Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
